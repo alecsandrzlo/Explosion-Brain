@@ -1,0 +1,13 @@
+{
+"companyName": "Zlo_game",
+"productName": "Explosion",
+"dataUrl": "WebGL Explousion.data.unityweb",
+"asmCodeUrl": "WebGL Explousion.asm.code.unityweb",
+"asmMemoryUrl": "WebGL Explousion.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL Explousion.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#A5A5A5"
+}
